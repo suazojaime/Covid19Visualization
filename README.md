@@ -13,9 +13,9 @@
 
 -- Here are same examples of the result
 
-![alt text](https://github.com/suazojaime/Covid19Visualization/raw/main/Santiago.png)
+![alt text](https://github.com/suazojaime/Covid19Visualization/raw/main/Santiago_.png)
 
-![alt text](https://github.com/suazojaime/Covid19Visualization/raw/main/estacion_central.png)
+![alt text](https://github.com/suazojaime/Covid19Visualization/raw/main/estacion_central_.png)
 
 
 

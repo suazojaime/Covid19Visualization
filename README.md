@@ -10,3 +10,13 @@
 
 
 - Just choose your comuna and press play
+
+-- Here are same examples of the result
+
+![alt text](https://github.com/suazojaime/Covid19Visualization/raw/main/Santiago.png)
+
+![alt text](https://github.com/suazojaime/Covid19Visualization/raw/main/estacion_central.png)
+
+
+
+

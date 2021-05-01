@@ -69,8 +69,8 @@ ax1.set_yticks([])
 
 ax.fill_between(df_comuna['Fecha'],df_comuna['Casos actuales'],y2 = 0,where= df_comuna['Paso']==1  , alpha=0.4, color = 'r',label= 'Cuarentena')
 ax.fill_between(df_comuna['Fecha'],df_comuna['Casos actuales'],y2 = 0,where= df_comuna['Paso']==2  , alpha=0.4, color = 'orange',label= 'Transición')
-ax.fill_between(df_comuna['Fecha'],df_comuna['Casos actuales'],y2 = 0,where= df_comuna['Paso']==3  , alpha=0.4, color = 'yellow',label= 'Libertad')
-ax.fill_between(df_comuna['Fecha'],df_comuna['Casos actuales'],y2 = 0,where= df_comuna['Paso']==4  , alpha=0.4, color = 'blue',label= 'Nirvana')
+ax.fill_between(df_comuna['Fecha'],df_comuna['Casos actuales'],y2 = 0,where= df_comuna['Paso']==3  , alpha=0.4, color = 'yellow',label= 'Preparación')
+ax.fill_between(df_comuna['Fecha'],df_comuna['Casos actuales'],y2 = 0,where= df_comuna['Paso']==4  , alpha=0.4, color = 'blue',label= 'Apertura')
 
 ax.legend(loc=2)
 
